@@ -4,7 +4,7 @@
 
 ## Screenshoot
 Ajax Exercise
-![Ajax Exercise](Screenshoot/ajax-exercise shidqi.png)
+![Ajax Exercise](Screenshoot/ajax-exerciseshidqi.png)
 
 Ajax
-![Ajax](Screenshoot/ajax shidqi.png)
+![Ajax](Screenshoot/ajaxshidqi.png)
